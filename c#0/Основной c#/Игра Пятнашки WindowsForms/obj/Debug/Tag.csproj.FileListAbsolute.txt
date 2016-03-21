@@ -1,0 +1,18 @@
+D:\Мария\Программирование\2 семестр\Tag\obj\Debug\ResolveAssemblyReference.cache
+D:\Мария\Программирование\2 семестр\Tag\obj\Debug\Tag.Properties.Resources.resources
+D:\Мария\Программирование\2 семестр\Tag\obj\Debug\Tag.csproj.GenerateResource.Cache
+D:\Мария\Программирование\2 семестр\Tag\bin\Debug\Tag.exe
+D:\Мария\Программирование\2 семестр\Tag\bin\Debug\Tag.pdb
+D:\Мария\Программирование\2 семестр\Tag\obj\Debug\Tag.exe
+D:\Мария\Программирование\2 семестр\Tag\obj\Debug\Tag.pdb
+D:\Мария\Программирование\2 семестр\Tag\obj\Debug\Tag.Form1.resources
+D:\моя папка\программирование\2 семестр\Tag\obj\Debug\Tag.exe
+D:\моя папка\программирование\2 семестр\Tag\obj\Debug\Tag.pdb
+D:\моя папка\программирование\2 семестр\Tag\bin\Debug\Tag.exe
+D:\моя папка\программирование\2 семестр\Tag\bin\Debug\Tag.pdb
+D:\моя папка\программирование\2 семестр\Tag\obj\Debug\ResolveAssemblyReference.cache
+D:\моя папка\программирование\2 семестр\Tag\obj\Debug\Tag.Properties.Resources.resources
+D:\моя папка\программирование\2 семестр\Tag\obj\Debug\Tag.csproj.GenerateResource.Cache
+D:\моя папка\программирование\2 семестр\Tag\obj\Debug\Tag.TagForm.resources
+D:\моя папка\программирование\2 семестр\Игра Пятнашки WindowsForms\obj\Debug\Tag.exe
+D:\моя папка\программирование\2 семестр\Игра Пятнашки WindowsForms\obj\Debug\Tag.pdb

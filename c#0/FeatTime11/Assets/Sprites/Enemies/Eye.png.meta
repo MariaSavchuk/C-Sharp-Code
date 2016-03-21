@@ -1,0 +1,242 @@
+fileFormatVersion: 2
+guid: 74a196b1998ae8348bc2127bf225f2f0
+timeCreated: 1431936149
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Eye_71
+    21300002: Eye_72
+    21300004: Eye_73
+    21300006: Eye_74
+    21300008: Eye_76
+    21300010: Eye_77
+    21300012: Eye_78
+    21300014: Eye_79
+    21300016: Eye_80
+    21300018: Eye_81
+    21300020: Eye_82
+    21300022: Eye_83
+    21300024: Eye_84
+    21300026: Eye_85
+    21300028: Eye_86
+    21300030: Eye_87
+    21300032: Eye_0
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Eye_71
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 15
+        width: 32
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eye_72
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 15
+        width: 34
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eye_73
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 15
+        width: 44
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eye_74
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 15
+        width: 49
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eye_76
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 15
+        width: 55
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eye_77
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 15
+        width: 45
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eye_78
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 15
+        width: 40
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eye_79
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 15
+        width: 53
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eye_80
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 14
+        width: 55
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eye_81
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 14
+        width: 47
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eye_82
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 10
+        width: 61
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eye_83
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 15
+        width: 82
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eye_84
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 15
+        width: 58
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eye_85
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 10
+        width: 47
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eye_86
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 5
+        width: 34
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eye_87
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 12
+        width: 44
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Eye_0
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 297
+        width: 50
+        height: 84
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

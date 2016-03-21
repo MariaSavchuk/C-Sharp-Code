@@ -1,0 +1,18 @@
+D:\Мария\Программирование\2 семестр\motion\obj\Debug\ResolveAssemblyReference.cache
+D:\Мария\Программирование\2 семестр\motion\obj\Debug\motion.Form1.resources
+D:\Мария\Программирование\2 семестр\motion\obj\Debug\motion.Properties.Resources.resources
+D:\Мария\Программирование\2 семестр\motion\obj\Debug\motion.csproj.GenerateResource.Cache
+D:\Мария\Программирование\2 семестр\motion\bin\Debug\motion.exe
+D:\Мария\Программирование\2 семестр\motion\bin\Debug\motion.pdb
+D:\Мария\Программирование\2 семестр\motion\obj\Debug\motion.exe
+D:\Мария\Программирование\2 семестр\motion\obj\Debug\motion.pdb
+D:\Мария\Программирование\2 семестр\motion\obj\Debug\motion.Form2.resources
+D:\моя папка\программирование\2 семестр\motion\obj\Debug\motion.exe
+D:\моя папка\программирование\2 семестр\motion\obj\Debug\motion.pdb
+D:\моя папка\программирование\2 семестр\motion\bin\Debug\motion.exe
+D:\моя папка\программирование\2 семестр\motion\bin\Debug\motion.pdb
+D:\моя папка\программирование\2 семестр\motion\obj\Debug\ResolveAssemblyReference.cache
+D:\моя папка\программирование\2 семестр\motion\obj\Debug\motion.Properties.Resources.resources
+D:\моя папка\программирование\2 семестр\motion\obj\Debug\motion.csproj.GenerateResource.Cache
+D:\моя папка\программирование\2 семестр\motion\obj\Debug\motion.MotionForm.resources
+D:\моя папка\программирование\2 семестр\motion\obj\Debug\motion.DialogForm.resources

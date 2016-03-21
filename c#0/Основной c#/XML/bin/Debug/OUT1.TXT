@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="windows-1251"?>
+<!DOCTYPE table [<!ELEMENT table (team+)>	<!ELEMENT team (information)>	<!ELEMENT information (login,password)>	<!ELEMENT login EMPTY>	<!ELEMENT password EMPTY>	<!ATTLIST team name CDATA #REQUIRED>	<!ATTLIST login text CDATA #REQUIRED>	<!ATTLIST password pas1 CDATA #REQUIRED pas2 CDATA #REQUIRED>]>
+<table>
+  <team name="Несборная лицея">
+    <information>
+      <login text="fpmi14bt01" />
+      <password pas1="uyLSp93k" pas2="gvsTTVNW" />
+    </information>
+  </team>
+  <team>
+    <information>
+      <password pas1="M2N5HHhX" pas2="Sm9PNEsk" />
+    </information>
+  </team>
+  <team name="Мозырь, КЮП #2">
+    <information>
+      <login text="fpmi14bt03" />
+      <password pas1="5GGF2mGC" pas2="nVw2CbLR" />
+    </information>
+  </team>
+  <team name="Мозырь, КЮП #3">
+    <information>
+      <login text="fpmi14bt04" />
+      <password pas1="da38tkWM" pas2="MSscexAc" />
+    </information>
+  </team>
+  <team name="Мозырь, КЮП #4">
+    <information>
+      <login text="fpmi14bt05" />
+      <password pas1="upnHwMgy" pas2="ZvvCEsyz" />
+    </information>
+  </team>
+  <team name="Лицей БГУ # 2">
+    <information>
+      <login text="fpmi14bt07" />
+      <password pas1="tpADGH93" pas2="MGaTkfr4" />
+    </information>
+  </team>
+  <team name="Бивни крокодила">
+    <information>
+      <login text="fpmi14bt08" />
+      <password pas1="gZBCWFZH" pas2="FPLZ5Egm" />
+    </information>
+  </team>
+  <team name="G29_0">
+    <information>
+      <login text="fpmi14bt09" />
+      <password pas1="urfehczs" pas2="WEzB5SD8" />
+    </information>
+  </team>
+  <team name="Access Denied">
+    <information>
+      <login text="fpmi14bt10" />
+      <password pas1="2cvC36dN" pas2="vrKcwtKF" />
+    </information>
+  </team>
+  <team name="Brest">
+    <information>
+      <login text="fpmi14bt11" />
+      <password pas1="ZaVH3fgM" pas2="Yesgkdxg" />
+    </information>
+  </team>
+  <team name="Omerta">
+    <information>
+      <login text="fpmi14bt12" />
+      <password pas1="Nz6m9KV3" pas2="Gy63bMkD" />
+    </information>
+  </team>
+  <team name="Столбцы + Березино">
+    <information>
+      <login text="fpmi14bt13" />
+      <password pas1="XYRKnFEr" pas2="TBRFF6a7" />
+    </information>
+  </team>
+  <team name="Витебск 1">
+    <information>
+      <login text="fpmi14bt14" />
+      <password pas1="2PGKGbeT" pas2="rREwCSFv" />
+    </information>
+  </team>
+  <team name="Витебск 2">
+    <information>
+      <login text="fpmi14bt15" />
+      <password pas1="D5sbDDLZ" pas2="Ev2YXm9x" />
+    </information>
+  </team>
+  <team name="Витебск 3">
+    <information>
+      <login text="fpmi14bt16" />
+      <password pas1="vaRduWPd" pas2="6FWBt6ya" />
+    </information>
+  </team>
+  <team name="Витебск 4">
+    <information>
+      <login text="fpmi14bt17" />
+      <password pas1="nCenWeY3" pas2="zTPSdwm4" />
+    </information>
+  </team>
+  <team name="Витебск 6">
+    <information>
+      <login text="fpmi14bt19" />
+      <password pas1="syszhPeg" pas2="3wyuPVny" />
+    </information>
+  </team>
+  <team name="Серёжкин киёк">
+    <information>
+      <login text="fpmi14bt22" />
+      <password pas1="A7wZKwSV" pas2="YZddecbx" />
+    </information>
+  </team>
+  <team name="Ивье СШ, BNS">
+    <information>
+      <login text="fpmi14bt24" />
+      <password pas1="ZN3c94KF" pas2="Znut3LfM" />
+    </information>
+  </team>
+  <team name="Lemon">
+    <information>
+      <login text="fpmi14bt25" />
+      <password pas1="L5ANPf7c" pas2="EZ8kSf26" />
+    </information>
+  </team>
+  <team name="Бобруйск # 1">
+    <information>
+      <login text="fpmi14bt26" />
+      <password pas1="khxR6CNN" pas2="SC9HuaVd" />
+    </information>
+  </team>
+</table>
