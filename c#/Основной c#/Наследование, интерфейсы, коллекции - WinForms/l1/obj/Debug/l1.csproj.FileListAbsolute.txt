@@ -1,0 +1,8 @@
+D:\моя папка\программирование\2 семестр\l1\l1\obj\Debug\ResolveAssemblyReference.cache
+D:\моя папка\программирование\2 семестр\l1\l1\obj\Debug\l1.Properties.Resources.resources
+D:\моя папка\программирование\2 семестр\l1\l1\obj\Debug\l1.csproj.GenerateResource.Cache
+D:\моя папка\программирование\2 семестр\l1\l1\bin\Debug\l1.exe
+D:\моя папка\программирование\2 семестр\l1\l1\bin\Debug\l1.pdb
+D:\моя папка\программирование\2 семестр\l1\l1\obj\Debug\l1.exe
+D:\моя папка\программирование\2 семестр\l1\l1\obj\Debug\l1.pdb
+D:\моя папка\программирование\2 семестр\l1\l1\obj\Debug\l1.DemoForm.resources

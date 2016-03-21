@@ -1,0 +1,11 @@
+10
+Number1, Minsk, 10:10 11.12.2016 0
+Number2, Grodno, 04:10 05.10.2015 2
+Number3, Rim, 12:45 05.05.2015 2
+Number4, Minsk, 14:50 05.05.2015 0
+Number5, Mogilev, 18:03 05.10.2015 1
+Number6, Rim, 12:00 05.05.2015 2
+Number7, Minsk, 15:00 06.05.2015 0
+Number8, Amsterdam, 01:11 06.05.2015 1
+Number9, Turov, 18:41 08.03.2015 0
+Number10, Moskva, 14:10 30.05.2015 2

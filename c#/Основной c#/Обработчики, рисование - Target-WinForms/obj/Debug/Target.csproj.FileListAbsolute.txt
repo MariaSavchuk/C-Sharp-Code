@@ -1,0 +1,32 @@
+D:\Мария\Программирование\2 семестр\Target\bin\Debug\Target.exe
+D:\Мария\Программирование\2 семестр\Target\bin\Debug\Target.pdb
+D:\Мария\Программирование\2 семестр\Target\obj\Debug\ResolveAssemblyReference.cache
+D:\Мария\Программирование\2 семестр\Target\obj\Debug\Target.Form1.resources
+D:\Мария\Программирование\2 семестр\Target\obj\Debug\Target.Properties.Resources.resources
+D:\Мария\Программирование\2 семестр\Target\obj\Debug\Target.csproj.GenerateResource.Cache
+D:\Мария\Программирование\2 семестр\Target\obj\Debug\Target.exe
+D:\Мария\Программирование\2 семестр\Target\obj\Debug\Target.pdb
+G:\Target\obj\Debug\Target.exe
+G:\Target\obj\Debug\Target.pdb
+G:\Target\bin\Debug\Target.exe
+G:\Target\bin\Debug\Target.pdb
+G:\Target\obj\Debug\ResolveAssemblyReference.cache
+G:\Target\obj\Debug\Target.Form1.resources
+G:\Target\obj\Debug\Target.Properties.Resources.resources
+G:\Target\obj\Debug\Target.csproj.GenerateResource.Cache
+D:\моя папка\программирование\2 семестр\Target\obj\Debug\Target.exe
+D:\моя папка\программирование\2 семестр\Target\obj\Debug\Target.pdb
+D:\моя папка\программирование\2 семестр\Target\bin\Debug\Target.exe
+D:\моя папка\программирование\2 семестр\Target\bin\Debug\Target.pdb
+D:\моя папка\программирование\2 семестр\Target\obj\Debug\ResolveAssemblyReference.cache
+D:\моя папка\программирование\2 семестр\Target\obj\Debug\Target.Properties.Resources.resources
+D:\моя папка\программирование\2 семестр\Target\obj\Debug\Target.csproj.GenerateResource.Cache
+D:\моя папка\программирование\2 семестр\Target\obj\Debug\Target.ShutForm.resources
+D:\моя папка\программирование\2 семестр\Target-WinForms\obj\Debug\Target.exe
+D:\моя папка\программирование\2 семестр\Target-WinForms\obj\Debug\Target.pdb
+D:\моя папка\программирование\2 семестр\Target-WinForms\bin\Debug\Target.exe
+D:\моя папка\программирование\2 семестр\Target-WinForms\bin\Debug\Target.pdb
+D:\моя папка\программирование\2 семестр\Target-WinForms\obj\Debug\ResolveAssemblyReference.cache
+D:\моя папка\программирование\2 семестр\Target-WinForms\obj\Debug\Target.ShotForm.resources
+D:\моя папка\программирование\2 семестр\Target-WinForms\obj\Debug\Target.Properties.Resources.resources
+D:\моя папка\программирование\2 семестр\Target-WinForms\obj\Debug\Target.csproj.GenerateResource.Cache

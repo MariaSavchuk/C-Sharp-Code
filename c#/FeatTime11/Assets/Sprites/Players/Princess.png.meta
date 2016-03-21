@@ -1,0 +1,203 @@
+fileFormatVersion: 2
+guid: a3c5c3537cf897a48910e249b7d1f3b9
+timeCreated: 1433165555
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Princess_0
+    21300002: Princess_1
+    21300004: Princess_2
+    21300006: Princess_3
+    21300008: Princess_4
+    21300010: Princess_5
+    21300012: Princess_6
+    21300014: Princess_7
+    21300016: Princess_8
+    21300018: Princess_9
+    21300020: Princess_47
+    21300022: Princess_48
+    21300024: Princess_49
+    21300026: Princess_50
+    21300028: Princess_51
+    21300030: Princess_52
+    21300032: Princess_54
+    21300034: Princess_55
+    21300036: Princess_56
+    21300038: Princess_57
+    21300040: Princess_58
+    21300042: Princess_59
+    21300044: Princess_67
+    21300046: Princess_68
+    21300048: Princess_69
+    21300050: Princess_70
+    21300052: Princess_106
+    21300054: Princess_10
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Princess_0
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 710
+        width: 75
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Princess_1
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 710
+        width: 73
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Princess_2
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 709
+        width: 75
+        height: 145
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Princess_3
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 710
+        width: 74
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Princess_4
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 710
+        width: 79
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Princess_5
+      rect:
+        serializedVersion: 2
+        x: 473
+        y: 710
+        width: 77
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Princess_6
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 710
+        width: 82
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Princess_7
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 710
+        width: 82
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Princess_8
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 709
+        width: 80
+        height: 145
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Princess_9
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 710
+        width: 80
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Princess_106
+      rect:
+        serializedVersion: 2
+        x: 1515
+        y: 64
+        width: 8
+        height: 4
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: Princess_10
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 187
+        width: 77
+        height: 144
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,176 @@
+fileFormatVersion: 2
+guid: b18f4b69388e2f944a400566759a8a17
+timeCreated: 1431373787
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: "\u043D\u0430\u0431\u043E\u04408_2"
+    21300002: "\u043D\u0430\u0431\u043E\u04408_6"
+    21300004: "\u043D\u0430\u0431\u043E\u04408_8"
+    21300006: "\u043D\u0430\u0431\u043E\u04408_10"
+    21300008: "\u043D\u0430\u0431\u043E\u04408_15"
+    21300010: "\u043D\u0430\u0431\u043E\u04408_21"
+    21300012: "\u043D\u0430\u0431\u043E\u04408_23"
+    21300014: "\u043D\u0430\u0431\u043E\u04408_25"
+    21300016: "\u043D\u0430\u0431\u043E\u04408_28"
+    21300018: "\u043D\u0430\u0431\u043E\u04408_35"
+    21300020: "\u043D\u0430\u0431\u043E\u04408_41"
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: .25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 8
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: .5, y: .5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: "\u043D\u0430\u0431\u043E\u04408_2"
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 309
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u043D\u0430\u0431\u043E\u04408_6"
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 222
+        width: 84
+        height: 83
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u043D\u0430\u0431\u043E\u04408_8"
+      rect:
+        serializedVersion: 2
+        x: 246
+        y: 264
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u043D\u0430\u0431\u043E\u04408_10"
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 266
+        width: 84
+        height: 42
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u043D\u0430\u0431\u043E\u04408_15"
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 222
+        width: 42
+        height: 40
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u043D\u0430\u0431\u043E\u04408_21"
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 81
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u043D\u0430\u0431\u043E\u04408_23"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 154
+        width: 205
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u043D\u0430\u0431\u043E\u04408_25"
+      rect:
+        serializedVersion: 2
+        x: 245
+        y: 113
+        width: 41
+        height: 21
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u043D\u0430\u0431\u043E\u04408_28"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 110
+        width: 169
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u043D\u0430\u0431\u043E\u04408_35"
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 33
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+    - name: "\u043D\u0430\u0431\u043E\u04408_41"
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 23
+        width: 84
+        height: 20
+      alignment: 0
+      pivot: {x: .5, y: .5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

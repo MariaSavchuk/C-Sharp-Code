@@ -1,0 +1,22 @@
+D:\Мария\Программирование\2 семестр\regulV\obj\Debug\ResolveAssemblyReference.cache
+D:\Мария\Программирование\2 семестр\regulV\bin\Debug\regulV.exe
+D:\Мария\Программирование\2 семестр\regulV\bin\Debug\regulV.pdb
+D:\Мария\Программирование\2 семестр\regulV\obj\Debug\regulV.exe
+D:\Мария\Программирование\2 семестр\regulV\obj\Debug\regulV.pdb
+D:\Мария\Программирование\2 семестр\Копия regulV\obj\Debug\regulV.exe
+D:\Мария\Программирование\2 семестр\Копия regulV\obj\Debug\regulV.pdb
+D:\Мария\Программирование\2 семестр\Копия regulV\obj\Debug\ResolveAssemblyReference.cache
+D:\Мария\Программирование\2 семестр\Копия regulV\bin\Debug\regulV.exe
+D:\Мария\Программирование\2 семестр\Копия regulV\bin\Debug\regulV.pdb
+D:\Мария\Программирование\2 семестр\regulV2\obj\Debug\regulV.exe
+D:\Мария\Программирование\2 семестр\regulV2\obj\Debug\regulV.pdb
+D:\Мария\Программирование\2 семестр\regulV2\bin\Debug\regulV.exe
+D:\Мария\Программирование\2 семестр\regulV2\bin\Debug\regulV.pdb
+D:\Мария\Программирование\2 семестр\regulV2\obj\Debug\ResolveAssemblyReference.cache
+G:\reg\regulV2\obj\Debug\regulV.exe
+G:\reg\regulV2\obj\Debug\regulV.pdb
+D:\моя папка\программирование\2 семестр\reg\regulV2\obj\Debug\regulV.exe
+D:\моя папка\программирование\2 семестр\reg\regulV2\obj\Debug\regulV.pdb
+D:\моя папка\программирование\2 семестр\reg\regulV2\bin\Debug\regulV.exe
+D:\моя папка\программирование\2 семестр\reg\regulV2\bin\Debug\regulV.pdb
+D:\моя папка\программирование\2 семестр\reg\regulV2\obj\Debug\ResolveAssemblyReference.cache

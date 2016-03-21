@@ -1,0 +1,34 @@
+D:\Мария\Программирование\2 семестр\Target\bin\Debug\Target.exe
+D:\Мария\Программирование\2 семестр\Target\bin\Debug\Target.pdb
+D:\Мария\Программирование\2 семестр\Target\obj\Debug\ResolveAssemblyReference.cache
+D:\Мария\Программирование\2 семестр\Target\obj\Debug\Target.Form1.resources
+D:\Мария\Программирование\2 семестр\Target\obj\Debug\Target.Properties.Resources.resources
+D:\Мария\Программирование\2 семестр\Target\obj\Debug\Target.csproj.GenerateResource.Cache
+D:\Мария\Программирование\2 семестр\Target\obj\Debug\Target.exe
+D:\Мария\Программирование\2 семестр\Target\obj\Debug\Target.pdb
+D:\Мария\Программирование\2 семестр\Копия Target\obj\Debug\Target.exe
+D:\Мария\Программирование\2 семестр\Копия Target\obj\Debug\Target.pdb
+D:\Мария\Программирование\2 семестр\Копия Target\obj\Debug\ResolveAssemblyReference.cache
+D:\Мария\Программирование\2 семестр\Копия Target\obj\Debug\Target.Form1.resources
+D:\Мария\Программирование\2 семестр\Копия Target\obj\Debug\Target.Properties.Resources.resources
+D:\Мария\Программирование\2 семестр\Копия Target\obj\Debug\Target.csproj.GenerateResource.Cache
+D:\Мария\Программирование\2 семестр\Копия Target\bin\Debug\Target.exe
+D:\Мария\Программирование\2 семестр\Копия Target\bin\Debug\Target.pdb
+D:\Мария\Программирование\2 семестр\Многопоточность1\obj\Debug\Target.exe
+D:\Мария\Программирование\2 семестр\Многопоточность1\obj\Debug\Target.pdb
+D:\Мария\Программирование\2 семестр\Многопоточность1\bin\Debug\Target.exe
+D:\Мария\Программирование\2 семестр\Многопоточность1\bin\Debug\Target.pdb
+D:\Мария\Программирование\2 семестр\Многопоточность1\obj\Debug\ResolveAssemblyReference.cache
+D:\Мария\Программирование\2 семестр\Многопоточность1\obj\Debug\Target.Form1.resources
+D:\Мария\Программирование\2 семестр\Многопоточность1\obj\Debug\Target.Properties.Resources.resources
+D:\Мария\Программирование\2 семестр\Многопоточность1\obj\Debug\Target.csproj.GenerateResource.Cache
+D:\моя папка\программирование\2 семестр\Многопоточность1\obj\Debug\Target.exe
+D:\моя папка\программирование\2 семестр\Многопоточность1\obj\Debug\Target.pdb
+D:\моя папка\программирование\2 семестр\Многопоточность1\bin\Debug\Target.exe
+D:\моя папка\программирование\2 семестр\Многопоточность1\bin\Debug\Target.pdb
+D:\моя папка\программирование\2 семестр\Многопоточность1\obj\Debug\ResolveAssemblyReference.cache
+D:\моя папка\программирование\2 семестр\Многопоточность1\obj\Debug\Target.Properties.Resources.resources
+D:\моя папка\программирование\2 семестр\Многопоточность1\obj\Debug\Target.csproj.GenerateResource.Cache
+D:\моя папка\программирование\2 семестр\Многопоточность1\obj\Debug\Target.ThreadForm.resources
+D:\моя папка\программирование\2 семестр\Многопоточность, делегаты, события\obj\Debug\Target.exe
+D:\моя папка\программирование\2 семестр\Многопоточность, делегаты, события\obj\Debug\Target.pdb
