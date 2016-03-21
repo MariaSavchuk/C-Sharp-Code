@@ -1,5 +1,0 @@
-D:\моя папка\программирование\2 семестр\papa-mama\papa-mama\bin\Debug\papa-mama.exe
-D:\моя папка\программирование\2 семестр\papa-mama\papa-mama\bin\Debug\papa-mama.pdb
-D:\моя папка\программирование\2 семестр\papa-mama\papa-mama\obj\Debug\ResolveAssemblyReference.cache
-D:\моя папка\программирование\2 семестр\papa-mama\papa-mama\obj\Debug\papa-mama.exe
-D:\моя папка\программирование\2 семестр\papa-mama\papa-mama\obj\Debug\papa-mama.pdb

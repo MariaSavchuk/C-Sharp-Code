@@ -1,8 +1,0 @@
-D:\моя папка\программирование\2 семестр\XML\obj\Debug\ResolveAssemblyReference.cache
-D:\моя папка\программирование\2 семестр\XML\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
-D:\моя папка\программирование\2 семестр\XML\obj\Debug\XMLApplication.csproj.GenerateResource.Cache
-D:\моя папка\программирование\2 семестр\XML\obj\Debug\WindowsFormsApplication1.exe
-D:\моя папка\программирование\2 семестр\XML\obj\Debug\WindowsFormsApplication1.pdb
-D:\моя папка\программирование\2 семестр\XML\bin\Debug\WindowsFormsApplication1.exe
-D:\моя папка\программирование\2 семестр\XML\bin\Debug\WindowsFormsApplication1.pdb
-D:\моя папка\программирование\2 семестр\XML\obj\Debug\XMLApplication.XMLForm.resources

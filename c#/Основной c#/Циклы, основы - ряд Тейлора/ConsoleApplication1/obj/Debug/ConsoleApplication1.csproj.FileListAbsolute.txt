@@ -1,9 +1,0 @@
-D:\моя папка\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-D:\моя папка\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
-D:\моя папка\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
-D:\моя папка\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
-D:\моя папка\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-D:\моя папка\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
-D:\моя папка\программирование\2 семестр\Тейлор\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
-D:\моя папка\программирование\2 семестр\Тейлор\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
-D:\моя папка\программирование\2 семестр\Тейлор\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
